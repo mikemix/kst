@@ -1,16 +1,16 @@
-0;;GRUNTY
-01;;UŻYTKI ROLNE
-010;;Grunty orne
-011;;Sady
-012;;Łąki trwałe
-013;;Pastwiska trwałe
-014;;Grunty rolne zabudowane
-015;;Grunty pod stawami
-016;;Grunty pod rowami
-02;;GRUNTY LEŚNE
+0;GRUNTY
+01;UŻYTKI ROLNE
+010;Grunty orne
+011;Sady
+012;Łąki trwałe
+013;Pastwiska trwałe
+014;Grunty rolne zabudowane
+015;Grunty pod stawami
+016;Grunty pod rowami
+02;GRUNTY LEŚNE
 020;Lasy
 021;Grunty zadrzewione i zakrzewione
-03;;GRUNTY ZABUDOWANE I ZURBANIZOWANE
+03;GRUNTY ZABUDOWANE I ZURBANIZOWANE
 030;Tereny mieszkaniowe
 031;Tereny przemysłowe
 032;Inne tereny zabudowane
@@ -18,11 +18,11 @@
 034;Tereny rekreacyjno-wypoczynkowe
 035;Użytki kopalne
 036;Tereny komunikacyjne
-04;;UŻYTKI EKOLOGICZNE
+04;UŻYTKI EKOLOGICZNE
 040;Użytki ekologiczne
-05;;TERENY RÓŻNE
+05;TERENY RÓŻNE
 050;Tereny różne
-06;;NIEUŻYTKI
+06;NIEUŻYTKI
 060;Nieużytki
 07;GRUNTY POD WODAMI
 070;Grunty pod wodami, z wyłączeniem gruntów pod wodami powstałych w wyniku użytkowania urządzeń melioracji wodnych
