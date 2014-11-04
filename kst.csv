@@ -1,0 +1,395 @@
+0;;GRUNTY
+01;;UŻYTKI ROLNE
+010;;Grunty orne
+011;;Sady
+012;;Łąki trwałe
+013;;Pastwiska trwałe
+014;;Grunty rolne zabudowane
+015;;Grunty pod stawami
+016;;Grunty pod rowami
+02;;GRUNTY LEŚNE
+020;Lasy
+021;Grunty zadrzewione i zakrzewione
+03;;GRUNTY ZABUDOWANE I ZURBANIZOWANE
+030;Tereny mieszkaniowe
+031;Tereny przemysłowe
+032;Inne tereny zabudowane
+033;Zurbanizowane tereny niezabudowane
+034;Tereny rekreacyjno-wypoczynkowe
+035;Użytki kopalne
+036;Tereny komunikacyjne
+04;;UŻYTKI EKOLOGICZNE
+040;Użytki ekologiczne
+05;;TERENY RÓŻNE
+050;Tereny różne
+06;;NIEUŻYTKI
+060;Nieużytki
+07;GRUNTY POD WODAMI
+070;Grunty pod wodami, z wyłączeniem gruntów pod wodami powstałych w wyniku użytkowania urządzeń melioracji wodnych
+071;Grunty pod wodami powstałe w wyniku użytkowania urządzeń melioracji wodnych
+1;BUDYNKI I LOKALE ORAZ SPÓŁDZIELCZE PRAWO DO LOKALU UŻYTKOWEGO I SPÓŁDZIELCZE WŁASNOŚCIOWE PRAWO DO LOKALU MIESZKALNEGO
+10;BUDYNKI NIEMIESZKALNE
+101;Budynki przemysłowe
+102;Budynki transportu i łączności
+103;Budynki handlowo-usługowe
+104;Zbiorniki, silosy i budynki magazynowe
+105;Budynki biurowe
+106;Budynki szpitali i inne budynki opieki zdrowotnej
+107;Budynki oświaty, nauki i kultury oraz budynki sportowe
+108;Budynki produkcyjne, usługowe i gospodarcze dla rolnictwa
+109;Pozostałe budynki niemieszkalne
+11;BUDYNKI MIESZKALNE
+110;Budynki mieszkalne
+12;LOKALE, SPÓŁDZIELCZE PRAWO DO LOKALU UŻYTKOWEGO ORAZ SPÓŁDZIELCZE WŁASNOŚCIOWE PRAWO DO LOKALU MIESZKALNEGO
+121;Lokale niemieszkalne, spółdzielcze prawo do lokalu użytkowego
+122;Lokale mieszkalne, spółdzielcze własnościowe prawo do lokalu mieszkalnego
+2;OBIEKTY INŻYNIERII LĄDOWEJ I WODNEJ
+20;KOMPLEKSOWE BUDOWLE NA TERENACH PRZEMYSŁOWYCH
+200;Budowle dla górnictwa i kopalnictwa
+201;Budowle na terenach elektrowni
+202;Budowle na terenach zakładów chemicznych
+203;Budowle na terenach zakładów przemysłu ciężkiego, gdzie indziej niesklasyfikowane
+21;RUROCIĄGI, LINIE TELEKOMUNIKACYJNE I ELEKTROENERGETYCZNE
+210;Rurociągi, linie telekomunikacyjne i elektroenergetyczne, przesyłowe
+211;Rurociągi sieci rozdzielczej oraz linie telekomunikacyjne i elektroenergetyczne, rozdzielcze
+22;INFRASTRUKTURA TRANSPORTU
+220;Autostrady, drogi ekspresowe, ulice i drogi pozostałe
+221;Drogi szynowe, drogi kolei napowietrznych lub podwieszanych
+222;Drogi lotniskowe
+223;Mosty, wiadukty, estakady, tunele, przejścia nadziemne i podziemne
+224;Budowle wodne, z wyłączeniem melioracji wodnych
+225;Melioracje wodne podstawowe
+226;Melioracje wodne szczegółowe
+29;POZOSTAŁE OBIEKTY INŻYNIERII LĄDOWEJ I WODNEJ
+290;Budowle sportowe i rekreacyjne
+291;Pozostałe obiekty inżynierii lądowej i wodnej, gdzie indziej niesklasyfikowane
+3;KOTŁY I MASZYNY ENERGETYCZNE
+31;KOTŁY GRZEWCZE I PAROWE
+310;Kotły grzewcze
+313;Kotły parowe
+32;TURBINY I INNE MASZYNY NAPĘDOWE
+320;Turbiny parowe
+321;Turbiny wodne
+322;Maszyny parowe tłokowe
+323;Silniki spalinowe na paliwo lekkie
+324;Silniki spalinowe na paliwo ciężkie
+325;Silniki spalinowe na paliwo gazowe
+326;Silniki wiatrowe
+327;Koła wodne
+328;Silniki napędzane sprężonym powietrzem
+33;MASZYNY ELEKTRYCZNE WIRUJĄCE
+330;Silniki prądu stałego
+331;Prądnice prądu stałego
+332;Silniki elektryczne asynchroniczne, klatkowe, 50 Hz
+333;Silniki elektryczne asynchroniczne, pierścieniowe, 50 Hz
+334;Silniki elektryczne synchroniczne 50 Hz
+335;Prądnice synchroniczne 50 Hz
+336;Silniki prądu przemiennego pracujące przy innych częstotliwościach
+337;Silniki komutatorowe prądu przemiennego
+338;Kompensatory synchroniczne
+339;Układy napędowe elektryczne skojarzone oraz silniki liniowe
+34;TURBOZESPOŁY I ZESPOŁY PRĄDOTWÓRCZE ORAZ REAKTORY JĄDROWE
+340;Turbozespoły parowe
+341;Turbozespoły wodne
+342;Zespoły prądotwórcze z silnikami parowymi tłokowymi
+343;Zespoły prądotwórcze z silnikami spalinowymi na paliwo lekkie
+344;Zespoły prądotwórcze z silnikami spalinowymi na paliwo ciężkie
+345;Zespoły prądotwórcze z silnikami spalinowymi na paliwo gazowe
+346;Zespoły prądotwórcze wiatrowe
+347;Przetwornice prądu
+348;Pozostałe turbozespoły i zespoły prądotwórcze
+349;Reaktory jądrowe
+4;MASZYNY, URZĄDZENIA I APARATY OGÓLNEGO ZASTOSOWANIA
+41;OBRABIARKI DO METALI
+410;Tokarki
+411;Wiertarki, wytaczarki i wiertarko-frezarki
+412;Frezarki
+413;Przecinarki i nakiełczarki
+414;Strugarki, dłutownice, przeciągarki i przepycharki
+415;Szlifierki
+416;Obrabiarki do uzwojeń i uzębień
+417;Pozostałe obrabiarki do metali, w tym obrabiarki kombinowane, jednostki obróbcze zespołowe, automatyczne linie obróbcze oraz obrabiarki specjalizowane
+42;MASZYNY DO OBRÓBKI PLASTYCZNEJ METALI I TWORZYW SZTUCZNYCH
+420;Młoty i kuźniarki
+421;Prasy do metali i tworzyw sztucznych
+422;Maszyny do gięcia i prostowania
+423;Nitownice
+424;Nożyce do metali i tworzyw sztucznych
+425;Ciągarki
+426;Maszyny do skręcania, tkania i wyrobu sprężyn i lin
+427;Pozostałe maszyny do obróbki plastycznej metali i tworzyw sztucznych
+43;MASZYNY, URZĄDZENIA I APARATY OGÓLNEGO ZASTOSOWANIA W PRZETWÓRSTWIE ROLNO-SPOŻYWCZYM
+430;Maszyny, urządzenia i aparaty do rozdrabniania, rozcierania i mieszania surowców oraz mas surowcowych
+431;Maszyny, urządzenia i aparaty filtracyjne
+432;Urządzenia i aparaty do pasteryzacji
+433;Maszyny i urządzenia do dozowania i napełniania butelek, słoi, puszek, tub itp.
+434;Maszyny i urządzenia do zamykania, korkowania, etykietowania itp.
+435;Maszyny i urządzenia do pakowania w kartony i torby oraz maszyny wytwarzające opakowania
+436;Urządzenia do mycia i czyszczenia opakowań
+437;Pozostałe maszyny, urządzenia i aparaty ogólnego zastosowania w przemyśle rolnym i spożywczym
+44;MASZYNY I URZĄDZENIA DO PRZETŁACZANIA I SPRĘŻANIA CIECZY I GAZÓW
+440;Pompy nurnikowe i tłokowe
+441;Pompy wirowe
+442;Pompy rotacyjne
+443;Pompy zębate
+444;Sprężarki
+445;Dmuchawy i ssawy
+446;Wentylatory
+449;Pozostałe maszyny i urządzenia do przetłaczania i sprężania cieczy i gazów
+45;PIECE PRZEMYSŁOWE
+450;Piece do przerobu surowców
+451;Piece do przetwarzania paliw
+452;Piece grzewcze
+453;Piece topielne
+454;Piece do wypalania
+455;Konwertory i mieszalniki stalownicze
+456;Piece indukcyjne zasilane prądem wysokiej częstotliwości do obróbki termicznej
+46;URZĄDZENIA DO WYMIANY CIEPŁA
+460;Wymienniki przeponowe dwupłaszczowe
+461;Wymienniki przeponowe płaszczowo-rurkowe
+462;Wymienniki przeponowe komorowo-grzejnikowe
+463;Wymienniki przeponowe płaszczowo-wężownicowe
+464;Wymienniki przeponowe dwupłaszczowo-wężownicowe
+465;Wymienniki przeponowe rurowe
+466;Wymienniki przeponowe kanałowe
+469;Pozostałe urządzenia do wymiany ciepła
+47;MASZYNY, URZĄDZENIA I APARATY DO PROCESÓW MATERIAŁOWYCH
+470;Mieszalniki cieczy bezciśnieniowe z urządzeniami mieszającymi lub przesuwającymi
+471;Mieszalniki cieczy na ciśnienie do 16 atm. z mechanizmami mieszającymi
+472;Mieszalniki cieczy na ciśnienie powyżej 16 atm. z mechanizmami i urządzeniami mieszającymi
+473;Skrubery
+474;Kolumny
+475;Aparaty bębnowe
+476;Aparaty walcowe skrobakowe
+477;Suszarki komorowe
+479;Pozostałe maszyny, urządzenia i aparaty do procesów materiałowych
+48;POZOSTAŁE MASZYNY, URZĄDZENIA I APARATY OGÓLNEGO ZASTOSOWANIA
+480;Elektrolizery
+481;Aparaty i urządzenia do powierzchniowej obróbki metali sposobem chemicznym i elektrogalwanicznym
+482;Aparaty i urządzenia do powierzchniowej obróbki metali sposobem cieplnym
+483;Urządzenia do elektroerozyjnej obróbki metali
+484;Maszyny i aparaty do spawania, zgrzewania, natryskiwania oraz maszyny i aparaty do cięcia przy pomocy gazu
+485;Urządzenia i aparaty chłodnicze nieprzenośne
+486;Urządzenia i aparaty chłodnicze przenośne
+49;POZOSTAŁE MASZYNY, URZĄDZENIA I APARATY SPECJALIZOWANE I SPECJALNE, OGÓLNEGO ZASTOSOWANIA
+490;Maszyny i urządzenia do przygotowania maszynowych nośników danych oraz maszyny analityczne
+491;Zespoły komputerowe
+492;Samodzielne urządzenia do automatycznej regulacji i sterowania procesami
+493;Roboty
+5;MASZYNY, URZĄDZENIA I APARATY SPECJALISTYCZNE
+50;MASZYNY, URZĄDZENIA I APARATY DLA PRZEMYSŁU CHEMICZNEGO
+500;Maszyny, urządzenia i aparaty dla przemysłu azotowego i syntezy chemicznej
+501;Maszyny, urządzenia i aparaty dla przemysłu farmaceutycznego i przemysłów pokrewnych
+502;Maszyny, urządzenia i aparaty dla przemysłu włókien sztucznych
+503;Maszyny, urządzenia i aparaty dla przemysłu tworzyw sztucznych
+504;Maszyny, urządzenia i aparaty dla przemysłu gumowego
+505;Maszyny, urządzenia i aparaty dla przemysłu nieorganicznego, siarkowego i nawozów fosforowych
+506;Maszyny, urządzenia i aparaty dla przemysłu gazów technicznych
+507;Maszyny, urządzenia i aparaty dla przemysłu rafineryjnego
+51;MASZYNY, URZĄDZENIA I APARATY WIERTNICZE, GÓRNICZE, GAZOWNICZE, ODLEWNICZE, TORFIARSKIE ORAZ GEODEZYJNE I KARTOGRAFICZNE
+510;Maszyny i urządzenia wiertnicze
+511;Maszyny górnicze
+512;Maszyny i urządzenia do eksploatacji otworów wiertniczych
+513;Maszyny i urządzenia do przeróbki mechanicznej rud i węgla
+514;Maszyny i urządzenia hutnicze
+515;Maszyny i urządzenia koksownicze i gazownicze
+516;Maszyny i urządzenia odlewnicze
+517;Maszyny i urządzenia torfiarskie
+518;Aparaty i urządzenia do pomiarów i zabiegów geofizycznych, geodezyjnych, fotogrametrycznych, kartograficznych itp.
+52;MASZYNY DLA PRZEMYSŁU SUROWCÓW MINERALNYCH
+520;Maszyny i urządzenia dla przemysłu kamieniarskiego
+521;Maszyny i urządzenia dla przemysłu mineralnego
+522;Maszyny i urządzenia dla przemysłu wapienniczego i gipsowego
+523;Maszyny i urządzenia dla przemysłu cementowego
+524;Maszyny, urządzenia i aparaty dla przemysłu izolacyjnego i korkowego
+525;Maszyny i urządzenia do produkcji ceramiki budowlanej materiałów ognioodpornych i silikatowych
+526;Maszyny dla przemysłu ceramiki szlachetnej i technicznej
+527;Maszyny i urządzenia do produkcji szkła i wyrobów ze szkła
+528;Maszyny i urządzenia dla przemysłu materiałów ściernych
+529;Maszyny, urządzenia i agregaty do produkcji innych materiałów budowlanych
+53;MASZYNY DO PRODUKCJI WYROBÓW Z METALI I TWORZYW SZTUCZNYCH
+531;Maszyny specjalne do produkcji wyrobów drobnej galanterii metalowej
+532;Maszyny do produkcji wyrobów metalowych
+533;Maszyny i urządzenia do produkcji kabli i przedmiotów elektrycznych
+534;Maszyny i urządzenia do produkcji akumulatorów i baterii
+535;Maszyny i urządzenia do produkcji żarówek i lamp elektronowych
+536;Maszyny i aparaty do produkcji taśmy filmowej i magnetycznej, błon, płyt i papierów fotograficznych
+537;Maszyny i aparaty do produkcji filmów i kopii filmowych oraz do realizacji filmów
+538;Maszyny do nawijania cewek oraz izolacji silników, transformatorów i kondensatorów
+54;MASZYNY, URZĄDZENIA I APARATY DO OBRÓBKI I PRZEROBU DREWNA, PRODUKCJI WYROBÓW Z DREWNA ORAZ MASZYNY, URZĄDZENIA I APARATY DLA PRZEMYSŁU PAPIERNICZEGO I POLIGRAFICZNEGO
+540;Maszyny, urządzenia i aparaty do ścinki drzew oraz obróbki drewna
+541;Maszyny, urządzenia i aparaty do wyrobu oklein, płyt stolarskich i sklejek
+542;Maszyny, urządzenia i aparaty do wyrobu płyt pilśniowych i płyt wiórowych
+543;Maszyny, urządzenia i aparaty do wyrobu zapałek
+544;Maszyny, urządzenia i aparaty do wyrobu beczek, skrzyń i różnych wyrobów z drewna
+545;Maszyny, urządzenia i aparaty do wyrobu celulozy
+546;Maszyny i urządzenia do wyrobu papieru i tektury
+547;Maszyny, urządzenia i aparaty do wyrobów papierniczych i tekturowych
+548;Maszyny, urządzenia i aparaty poligraficzne
+549;Maszyny i urządzenia do produkcji wyrobów z drewna lub materiałów zastępczych w połączeniu z innymi materiałami
+55;MASZYNY I URZĄDZENIA DO PRODUKCJI WYROBÓW WŁÓKIENNICZYCH I ODZIEŻOWYCH ORAZ DO OBRÓBKI SKÓRY I PRODUKCJI WYROBÓW Z NIEJ
+550;Maszyny do wstępnej obróbki włókien łykowych
+551;Maszyny przędzalnicze
+552;Maszyny do produkcji nici, sznurków i lin
+553;Maszyny tkackie
+554;Maszyny dziewiarskie i pończosznicze
+555;Maszyny wykończalnicze i farbiarskie
+556;Maszyny do produkcji filcu i artykułów z filcu
+557;Maszyny szwalnicze, odzieżowe i do wyrobu guzików
+558;Maszyny do produkcji skóry i wyrobów ze skóry
+559;Pozostałe maszyny i urządzenia dla przemysłów włókienniczego, odzieżowego i skórzanego
+56;MASZYNY, URZĄDZENIA I APARATY DLA PRZEMYSŁU ROLNEGO
+560;Maszyny, urządzenia i aparaty dla przemysłu cukrowniczego
+561;Maszyny, urządzenia i aparaty dla przemysłu piwowarskiego i do produkcji napoi
+562;Maszyny, urządzenia i aparaty do produkcji drożdży
+563;Maszyny, urządzenia i aparaty do produkcji wyrobów spirytusowych
+564;Maszyny, urządzenia i aparaty do produkcji octu
+565;Maszyny, urządzenia i aparaty dla przemysłu ziemniaczanego
+566;Maszyny, urządzenia i aparaty dla przemysłu owocowo-warzywnego
+567;Maszyny, urządzenia i aparaty dla przemysłu młynarskiego
+568;Maszyny, urządzenia i aparaty dla przemysłu piekarniczego
+57;MASZYNY, URZĄDZENIA I APARATY DLA PRZEMYSŁU SPOŻYWCZEGO
+570;Maszyny, urządzenia i aparaty dla przemysłu cukierniczego
+571;Maszyny, urządzenia i aparaty dla przemysłu koncentratów spożywczych
+572;Maszyny, urządzenia i aparaty dla przemysłów tytoniowego i zielarskiego
+573;Maszyny, urządzenia i aparaty dla przemysłu mięsnego
+574;Maszyny, urządzenia i aparaty dla przemysłu rybnego
+575;Maszyny, urządzenia i aparaty dla przemysłu tłuszczowego
+576;Maszyny, urządzenia i aparaty dla przemysłu mleczarskiego
+577;Maszyny, urządzenia i aparaty dla przemysłu jajczarsko-drobiarskiego
+578;Maszyny, urządzenia i aparaty dla przemysłu gastronomicznego
+579;Pozostałe maszyny, urządzenia i aparaty dla przemysłu spożywczego
+58;MASZYNY DO ROBÓT ZIEMNYCH, BUDOWLANYCH I DROGOWYCH
+580;Maszyny do robót ziemnych i fundamentowych
+581;Maszyny do robót budowlanych
+582;Maszyny do robót drogowych
+583;Koparki i zwałowarki używane w kopalnictwie odkrywkowym
+584;Maszyny do robót torowych kolejowych
+59;MASZYNY, URZĄDZENIA I NARZĘDZIA ROLNICZE I GOSPODARKI LEŚNEJ
+590;Maszyny i narzędzia uprawowe
+591;Maszyny i urządzenia do siewu, sadzenia, nawożenia i deszczowania
+592;Maszyny i narzędzia pielęgnacyjne
+593;Maszyny i urządzenia do ochrony roślin
+594;Maszyny i urządzenia do zbioru ziemiopłodów
+595;Maszyny i urządzenia omłotowe, suszarnie i urządzenia pomocnicze
+596;Maszyny i urządzenia do czyszczenia, sortowania i zaprawiania ziemiopłodów
+597;Maszyny i urządzenia do przetwórstwa paszowego
+598;Maszyny oraz urządzenia do chowu i hodowli zwierząt
+599;Pozostałe maszyny, urządzenia i narzędzia rolnicze i dla gospodarki leśnej
+6;URZĄDZENIA TECHNICZNE
+60;ZBIORNIKI NAZIEMNE
+600;Zbiorniki naziemne ceglane
+601;Zbiorniki naziemne betonowe
+602;Zbiorniki naziemne drewniane
+603;Zbiorniki naziemne z tworzyw naturalnych i sztucznych
+604;Zbiorniki naziemne stalowe
+605;Zbiorniki naziemne z metali nieżelaznych
+61;URZĄDZENIA I APARATURA ENERGII ELEKTRYCZNEJ
+610;Urządzenia rozdzielcze prądu zmiennego
+611;Urządzenia nastawcze prądu zmiennego i stałego
+612;Aparatura prądu zmiennego
+613;Stacje transformatorowe stałe i mobilne
+614;Urządzenia i aparatura rozdzielcza prądu stałego
+615;Aparatura prądu stałego
+62;URZĄDZENIA DLA RADIOFONII I TELEWIZJI, URZĄDZENIA DLA TELEFONII I TELEGRAFII
+620;Urządzenia nadawcze dla radiofonii i telewizji
+621;Urządzenia odbiorcze dla radiofonii i telewizji
+622;Urządzenia elektroakustyczne i elektrowizyjne
+623;Urządzenia teletransmisji przewodowej
+624;Urządzenia alarmowe i sygnalizacyjne
+626;Urządzenia dla telefonii
+627;Urządzenia dla telegrafii
+629;Pozostałe urządzenia tele- i radiotechniczne
+63;URZĄDZENIE ELEKTROENERGETYCZNE PRZETWÓRCZE I ZASILAJĄCE
+630;Transformatory
+631;Zespoły prostownikowe
+632;Kondensatory statyczne
+633;Baterie stacjonarnych akumulatorów elektrycznych
+634;Baterie akumulatorów elektrycznych zasadowych
+64;DŹWIGI I PRZENOŚNIKI
+640;Dźwigi osobowe i towarowe
+641;Dźwigniki, wciągarki i wciągniki przejezdne i nieprzejezdne, kołowroty, wyciągniki itp.
+642;Żurawie (dźwigi przeładunkowe)
+643;Przenośniki ogólnego zastosowania
+644;Przenośniki kopalniane
+645;Przenośniki powietrzne i wodne
+646;Suwnice i wsadzarki
+647;Przesuwnice, obrotnice i wywrotnice
+648;Tory, towarowe kolejki linowe i dźwignice linowe
+65;URZĄDZENIA PRZEMYSŁOWE
+650;Przekładnie
+652;Urządzenia wentylacyjne
+653;Urządzenia klimatyzacyjne
+654;Urządzenia do oczyszczania wody
+655;Urządzenia do oczyszczania gazów
+656;Urządzenia do odpopielania i odżużlania
+657;Akumulatory hydrauliczne
+658;Urządzenia do oczyszczania ścieków
+659;Pozostałe urządzenia przemysłowe, gdzie indziej niesklasyfikowane
+66;URZĄDZENIA NIEPRZEMYSŁOWE
+660;Wagi pojazdowe, wagonowe i inne wbudowane
+661;Urządzenia pralni i farbiarni
+662;Urządzenia i aparaty projekcyjne
+663;Urządzenia przeciwpożarowe
+664;Urządzenia i aparatura do przeprowadzania badań technicznych
+668;Urządzenia techniczne teatralne
+669;Pozostałe urządzenia nieprzemysłowe
+68;POZOSTAŁE URZĄDZENIA TECHNICZNE
+681;Kontenery
+682;Nadwozia wymienne
+7;ŚRODKI TRANSPORTU
+70;TABOR KOLEJOWY NAZIEMNY
+700;Tabor kolejowy naziemny
+71;TABOR KOLEJOWY PODZIEMNY
+710;Tabor kolejowy podziemny
+72;TABOR TRAMWAJOWY
+720;Tabor tramwajowy
+73;POZOSTAŁY TABOR SZYNOWY NAZIEMNY
+730;Pozostały tabor szynowy naziemny
+74;POJAZDY MECHANICZNE
+740;Motocykle, przyczepy i wózki motocyklowe
+741;Samochody osobowe
+742;Samochody ciężarowe
+743;Samochody specjalne
+744;Pojazdy samochodowe przeznaczone konstrukcyjnie do przewozu dziewięciu lub więcej osób, włączając kierowcę
+745;Trolejbusy i samochody o napędzie elektrycznym
+746;Ciągniki
+747;Naczepy
+748;Przyczepy
+75;TABOR KONNY
+750;Tabor konny
+76;POZOSTAŁY TABOR BEZSZYNOWY
+760;Wózki jezdniowe z pomostem stałym o napędzie elektrycznym (akumulatorowe)
+761;Wózki jezdniowe podnośnikowe z nisko podnoszoną platformą o napędzie elektrycznym (akumulatorowe)
+762;Wózki jezdniowe podnośnikowe, mechaniczne, wysokiego podnoszenia (widłowe) o napędzie elektrycznym (akumulatorowe)
+763;Wózki jezdniowe podnośnikowe, mechaniczne, wysokiego podnoszenia (widłowe) o napędzie spalinowym
+764;Wózki jezdniowe transportowe ze stałą platformą i żurawiem o napędzie elektrycznym (akumulatorowe)
+768;Pozostałe wózki jezdniowe
+77;TABOR PŁYWAJĄCY
+770;Tabor transportu morskiego
+771;Tabor rybołówstwa morskiego
+772;Tabor techniczny i ratowniczy morski
+773;Tabor transportu śródlądowego
+774;Tabor techniczny i ratowniczy śródlądowy
+778;Pozostały tabor pływający
+78;TABOR LOTNICZY
+780;Samoloty
+781;Śmigłowce
+782;Szybowce
+783;Balony
+788;Pozostałe środki transportu lotniczego
+79;POZOSTAŁE ŚRODKI TRANSPORTU
+790;Pozostałe środki transportu
+8;NARZĘDZIA, PRZYRZĄDY, RUCHOMOŚCI I WYPOSAŻENIE, GDZIE INDZIEJ NIESKLASYFIKOWANE
+80;NARZĘDZIA, PRZYRZĄDY, RUCHOMOŚCI I WYPOSAŻENIE, GDZIE INDZIEJ NIESKLASYFIKOWANE
+800;Narzędzia, przyrządy, sprawdziany itp.
+801;Wyposażenie, aparaty i sprzęt laboratoryjny
+802;Wyposażenie, aparaty i sprzęt medyczny
+803;Wyposażenie techniczne dla prac biurowych
+804;Wyposażenie i sprzęt cyrkowy
+805;Wyposażenie i sprzęt kin, teatrów i innych placówek kulturalno-oświatowych
+806;Kioski, budki, baraki, domki campingowe itp.
+808;Pozostałe narzędzia, przyrządy, ruchomości i wyposażenie, gdzie indziej niesklasyfikowane
+9;INWENTARZ ŻYWY	 
+90;INWENTARZ ŻYWY	 
+900;Inwentarz żywy
